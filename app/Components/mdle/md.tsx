@@ -1,4 +1,4 @@
-import creasofa from '../../../../public/images/creasofa.jpg'
+import creasofa from '../../../public/images/creasofa.jpg'
 import React from 'react';
 import Image from 'next/image';
 const ServiceShowcase: React.FC = () => {

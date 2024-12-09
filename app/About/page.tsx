@@ -1,5 +1,5 @@
 "use client"
-import ychair from "../../../public/images/ychair.jpg"
+import ychair from "../../public/images/ychair.jpg"
 import Why from "../Components/Why/Why"
 import Image from "next/image";
 import React from "react";

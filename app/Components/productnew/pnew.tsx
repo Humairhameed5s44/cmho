@@ -1,7 +1,7 @@
 import Link from 'next/link';
-import bhootchair from '../../../../public/images/bhootchair.jpg';
-import sofa from '../../../../public/images/sofa.jpg';
-import bchair from '../../../../public/images/bchair.jpg';
+import bhootchair from '../../../public/images/bhootchair.jpg';
+import sofa from '../../../public/images/sofa.jpg';
+import bchair from '../../../public/images/bchair.jpg';
 import React from 'react';
 import Image, { StaticImageData } from 'next/image';
 

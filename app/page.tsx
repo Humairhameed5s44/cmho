@@ -1,9 +1,9 @@
 "use client"
 import Link from 'next/link'
-import lucy from '../../public/images/lucy.jpg'
-import bchair from '../../public/images/bchair.jpg'
-import silky from '../../public/images/silky.jpg'
-import rustic from '../../public/images/rustic.jpg'
+import lucy from '../public/images/lucy.jpg'
+import bchair from '../public/images/bchair.jpg'
+import silky from '../public/images/silky.jpg'
+import rustic from '../public/images/rustic.jpg'
 import Why from './Components/Why/Why'
 import Image from 'next/image';
 import React from 'react';
